@@ -2,7 +2,7 @@
 - 👀 I’m interested in Statistics, Data science, Software Development, and so on.
 - 🌱 I will graduate from Rose-Hulman institute of technology in MAY 2021, and I will pursue a M.S in Statistics from SEP 2021 at the University of Virginia. 
 - 🌱 I’m currently learning computer network include socket programming, TCP, HTTP, and so on.
-- 💞️ I’m looking to collaborate on 2021 summer internship. 
+- 💞️ I’m looking to have a full time job on 2022. 
 - 📫 How to reach me. Email huhao63889@gmail.com
 
 <!---
