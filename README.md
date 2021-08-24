@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Howard Hu.
-- 👀 I’m interested in statistics, quantitative trading, data science, and so on.
+- 👀 I’m interested in statistics, quantitative research, data science, and so on.
 - 🌱 I am a graduate student major in Statistics at the University of Virginia. 
-- 🌱 I’m currently learning quantitive trading related knowledge.
-- 💞️ I’m looking to have a full-time quant trader job in 2022. 
+- 💞️ I’m looking to have a full-time quantitative research or data science job in 2023. 
 - 📫 How to reach me. Email huhao63889@gmail.com
+          Github https://github.com/Haohao99
 
 <!---
 Haohao99/Haohao99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
